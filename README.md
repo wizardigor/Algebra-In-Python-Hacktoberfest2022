@@ -41,7 +41,7 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 ***
 ## Regras para contribuir com este repositório
 
--  Após fazer o Fork e crie uma pasta com seu nome de usuário
+-  Após fazer o Fork crie uma pasta com seu nome de usuário
 -  Dentro da pasta com seu nome de usuário deixe seu código em .py (Python)
 -  Junto ao código deixe um arquivo .md com o enunciado do o problema que está sendo resolvido
 -  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
