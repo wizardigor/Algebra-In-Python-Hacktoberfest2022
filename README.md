@@ -1,5 +1,7 @@
 <h1 align="center"> Hacktoberfest 2022 </h1>
 <h2 align="center">Algebra-In-Python-Hacktoberfest2022</h2>
+
+<p align="center"><img src="https://www.python.org/static/img/python-logo@2x.png"></p>
 <h3 align="center">Códigos implementados em Python - para educação</br>
 As implementações são apenas para fins de aprendizado. Como eles podem ser menos eficientes do que as implementações padrão, pode usar bibliotecas, fica a seu critério. </h3>
 
@@ -39,9 +41,9 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 ***
 ## Regras para contribuir com este repositório
 
--  Esteja atento as Issues, lá estará algumas ideias de melhoria
 -  Após fazer o Fork e crie uma pasta com seu nome de usuário
 -  Dentro da pasta com seu nome de usuário deixe seu código em .py (Python)
+-  Junto ao código deixe um arquivo .md com o enunciado do o problema que está sendo resolvido
 -  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
 
 ## How to do contributions 
