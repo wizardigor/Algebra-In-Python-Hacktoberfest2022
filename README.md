@@ -46,6 +46,8 @@ Este ano, os primeiros 40.000 participantes que concluírem com sucesso o desafi
 -  Junto ao código deixe um arquivo .md com o enunciado do o problema que está sendo resolvido
 -  Não esqueça de passar no arquivo CONTRIBUTING.md para deixar sua assinatura de contribuidor
 
+Exemplo de contribuição: [exemplo-wizardigor](https://github.com/wizardigor/Algebra-In-Python-Hacktoberfest2022/tree/main/exemplo-wizardigor)
+
 ## How to do contributions 
 
 ### 1. Fork the Project
