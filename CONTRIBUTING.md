@@ -21,7 +21,7 @@
                 :computer:
         </td>
         <td align="center">
-                <a href="https://github.com/TheraSoares">
+                <a href="[https://github.com/wizardigor](https://github.com/TheraSoares)">
                     <kbd>
                         <img src="https://avatars3.githubusercontent.com/TheraSoares?size=400" width="100px;" alt=""/>
                     </kbd>
@@ -35,7 +35,7 @@
         </td>
     </tr>
     <td align="center">
-                <a href="https://github.com/nathanussk">
+                <a href="[https://github.com/wizardigor][https://github.com/TheraSoares](https://github.com/nathanussk)">
                     <kbd>
                         <img src="https://avatars3.githubusercontent.com/nathanussk?size=400" width="100px;" alt=""/>
                     </kbd>
