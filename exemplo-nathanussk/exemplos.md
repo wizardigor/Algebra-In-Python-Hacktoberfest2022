@@ -10,3 +10,6 @@
 
 #Exemplo 6 - Determinante,
 Em matemática, determinante é uma função matricial que associa a cada matriz quadrada um escalar. Essa função transforma essa matriz em um número real. Esta função permite saber se a matriz tem ou não inversa, pois as que não têm são precisamente aquelas cujo determinante é igual a 0. O cálculo de determinantes está ligado com o conjunto solução de um sistema linear, pois se o cálculo da matriz dos coeficientes de um sistema de equações lineares, onde o número de equações é igual o número de incógnitas (uma matriz quadrada) for um valor diferente de zero, possuímos uma única solução para o sistema, caso o valor do determinante for zero, temos um sistema possível indeterminado ou impossível.
+
+#Exemplo 7 - Criptografia - Cifra de Hill
+Vamos aprender um método para codificar mensagens utilizando Cifras de Hill, cujo princípio reside em transformações matriciais. Para isso, vamos usar uma matriz chave e sua inversa mod 26.
