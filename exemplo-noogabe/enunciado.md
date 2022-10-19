@@ -17,3 +17,5 @@
 - inteiro ou decimal.
 
 #6 - Faça um programa que leia 5 números e informe o maior número.
+
+#7 - Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.
