@@ -15,3 +15,5 @@
 - par ou ímpar;
 - positivo ou negativo;
 - inteiro ou decimal.
+
+#6 - Faça um programa que leia 5 números e informe o maior número.
