@@ -45,5 +45,18 @@
         <br/>
         :computer:
     </td>
+    <td align="center">
+        <a href="https://github.com/gabrielealmeida">
+            <kbd>
+                <img src="https://avatars3.githubusercontent.com/gabrielealmeida?size=400" width="100px;" alt=""/>
+            </kbd>
+            <br/>
+            <sub>
+                <b>Gabriele Almeida</b>
+            </sub>
+        </a>
+        <br/>
+        :computer:
+    </td>
   </tr>
 </table>
