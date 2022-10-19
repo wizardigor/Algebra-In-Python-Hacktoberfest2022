@@ -1,6 +1,6 @@
 # questão 1
 
-# definindo a função principal
+# definindo a função
 def areaQuadrado(lateral):
     area = lateral ** 2
     return area * 2

@@ -1,6 +1,6 @@
 # questão 3
 
-# definindo a função principal
+# definindo a função
 def totalSalario(valorHora, horasTrabalhadas):
     bruto = valorHora*horasTrabalhadas
     ir = bruto * 0.11

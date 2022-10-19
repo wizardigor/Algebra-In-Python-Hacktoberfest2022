@@ -1,6 +1,6 @@
 # questão 2
 
-# definindo a função principal
+# definindo a função
 def celciusToFahrenheit(f):
     c = 5 * ((f-32) / 9)
     return c
