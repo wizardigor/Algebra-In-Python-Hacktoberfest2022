@@ -19,3 +19,5 @@
 #6 - Faça um programa que leia 5 números e informe o maior número.
 
 #7 - Numa eleição existem três candidatos. Faça um programa que peça o número total de eleitores. Peça para cada eleitor votar e ao final mostrar o número de votos de cada candidato.
+
+#8 - Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número inteiro. O usuário deve informar de qual numero ele deseja ver a tabuada.
